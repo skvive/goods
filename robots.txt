@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goods.lexid.site/sitemap.xml
